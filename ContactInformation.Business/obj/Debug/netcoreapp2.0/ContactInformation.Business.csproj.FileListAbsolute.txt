@@ -1,0 +1,16 @@
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Business.deps.json
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Business.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Business.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Entity.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Helper.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Repository.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Entity.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Helper.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\bin\Debug\netcoreapp2.0\ContactInformation.Repository.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.csprojAssemblyReference.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.csproj.CoreCompileInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.AssemblyInfoInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.AssemblyInfo.cs
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.csproj.CopyComplete
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Business\obj\Debug\netcoreapp2.0\ContactInformation.Business.pdb

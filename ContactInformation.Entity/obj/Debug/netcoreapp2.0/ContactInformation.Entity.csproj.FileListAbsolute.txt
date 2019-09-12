@@ -1,0 +1,8 @@
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\bin\Debug\netcoreapp2.0\ContactInformation.Entity.deps.json
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\bin\Debug\netcoreapp2.0\ContactInformation.Entity.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\bin\Debug\netcoreapp2.0\ContactInformation.Entity.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\obj\Debug\netcoreapp2.0\ContactInformation.Entity.csproj.CoreCompileInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\obj\Debug\netcoreapp2.0\ContactInformation.Entity.AssemblyInfoInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\obj\Debug\netcoreapp2.0\ContactInformation.Entity.AssemblyInfo.cs
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\obj\Debug\netcoreapp2.0\ContactInformation.Entity.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Entity\obj\Debug\netcoreapp2.0\ContactInformation.Entity.pdb

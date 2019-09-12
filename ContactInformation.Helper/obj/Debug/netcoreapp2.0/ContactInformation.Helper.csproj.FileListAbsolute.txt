@@ -1,0 +1,9 @@
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\bin\Debug\netcoreapp2.0\ContactInformation.Helper.deps.json
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\bin\Debug\netcoreapp2.0\ContactInformation.Helper.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\bin\Debug\netcoreapp2.0\ContactInformation.Helper.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\obj\Debug\netcoreapp2.0\ContactInformation.Helper.csprojAssemblyReference.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\obj\Debug\netcoreapp2.0\ContactInformation.Helper.csproj.CoreCompileInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\obj\Debug\netcoreapp2.0\ContactInformation.Helper.AssemblyInfoInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\obj\Debug\netcoreapp2.0\ContactInformation.Helper.AssemblyInfo.cs
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\obj\Debug\netcoreapp2.0\ContactInformation.Helper.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Helper\obj\Debug\netcoreapp2.0\ContactInformation.Helper.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContactInformation.Entity\ContactInformation.Entity.csproj" />
+    <ProjectReference Include="..\ContactInformation.Helper\ContactInformation.Helper.csproj" />
+    <ProjectReference Include="..\ContactInformation.Repository\ContactInformation.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

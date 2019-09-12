@@ -1,0 +1,12 @@
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\bin\Debug\netcoreapp2.0\ContactInformation.Repository.deps.json
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\bin\Debug\netcoreapp2.0\ContactInformation.Repository.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\bin\Debug\netcoreapp2.0\ContactInformation.Repository.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\bin\Debug\netcoreapp2.0\ContactInformation.Entity.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\bin\Debug\netcoreapp2.0\ContactInformation.Entity.pdb
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.csprojAssemblyReference.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.csproj.CoreCompileInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.AssemblyInfoInputs.cache
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.AssemblyInfo.cs
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.csproj.CopyComplete
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.dll
+D:\vikram\work\poc\evolent\ContactInformation\ContactInformation.Repository\obj\Debug\netcoreapp2.0\ContactInformation.Repository.pdb
