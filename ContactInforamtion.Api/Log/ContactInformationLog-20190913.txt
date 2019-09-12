@@ -1,0 +1,64 @@
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Hosting starting
+2019-09-13 01:31:42 [Information] (Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.) User profile is available. Using '"C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.) Reading data from file '"C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys\key-2a52d4c4-225e-48a9-b68e-932936fbcc55.xml"'.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository.) Reading data from file '"C:\Users\HP\AppData\Local\ASP.NET\DataProtection-Keys\key-4b4bf484-89ab-47e9-a639-5022cdcd415e.xml"'.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.) Found key {2a52d4c4-225e-48a9-b68e-932936fbcc55}.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager.) Found key {4b4bf484-89ab-47e9-a639-5022cdcd415e}.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver.) Considering key {4b4bf484-89ab-47e9-a639-5022cdcd415e} with expiration date 2019-12-09 18:11:39Z as default key.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.TypeForwardingActivator.) Forwarded activator type request from "Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" to "Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor.) Decrypting secret element using Windows DPAPI.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.TypeForwardingActivator.) Forwarded activator type request from "Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60" to "Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory.) Opening CNG algorithm '"AES"' from provider 'null' with chaining mode CBC.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory.) Opening CNG algorithm '"SHA256"' from provider 'null' with HMAC.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider.) Using key {4b4bf484-89ab-47e9-a639-5022cdcd415e} as the default key.
+2019-09-13 01:31:42 [Debug] (Microsoft.AspNetCore.DataProtection.Internal.DataProtectionStartupFilter.) Key ring with default key {4b4bf484-89ab-47e9-a639-5022cdcd415e} was loaded during application startup.
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcJsonOptions.) Compatibility switch "AllowInputFormatterExceptionMessages" in type "MvcJsonOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "AllowCombiningAuthorizeFilters" in type "MvcOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "AllowBindingHeaderValuesToNonStringModelTypes" in type "MvcOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "AllowValidatingTopLevelNodes" in type "MvcOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "InputFormatterExceptionPolicy" in type "MvcOptions" is using compatibility value MalformedInputExceptions for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "SuppressBindingUndefinedValueToEnumType" in type "MvcOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "EnableEndpointRouting" in type "MvcOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "MaxValidationDepth" in type "MvcOptions" is using compatibility value 32 for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcOptions.) Compatibility switch "AllowShortCircuitingValidationWhenNoValidatorsArePresent" in type "MvcOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.ApiBehaviorOptions.) Compatibility switch "SuppressMapClientErrors" in type "ApiBehaviorOptions" is using default value False
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.ApiBehaviorOptions.) Compatibility switch "SuppressUseValidationProblemDetailsForInvalidModelStateResponses" in type "ApiBehaviorOptions" is using default value False
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.ApiBehaviorOptions.) Compatibility switch "AllowInferringBindingSourceForCollectionTypesAsFromQuery" in type "ApiBehaviorOptions" is using default value False
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.RazorPages.RazorPagesOptions.) Compatibility switch "AllowAreas" in type "RazorPagesOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.RazorPages.RazorPagesOptions.) Compatibility switch "AllowMappingHeadRequestsToGetHandler" in type "RazorPagesOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.RazorPages.RazorPagesOptions.) Compatibility switch "AllowDefaultHandlingForOptionsRequests" in type "RazorPagesOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.Razor.RazorViewEngineOptions.) Compatibility switch "AllowRecompilingViewsOnFileChange" in type "RazorViewEngineOptions" is using explicitly configured value True
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcViewOptions.) Compatibility switch "SuppressTempDataAttributePrefix" in type "MvcViewOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.MvcViewOptions.) Compatibility switch "AllowRenderingMaxLengthAttribute" in type "MvcViewOptions" is using compatibility value True for version Version_2_2
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory.) Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider", "Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexTypeModelBinderProvider"]
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.) Failed to locate the development https certificate at 'null'.
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Hosting started
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Loaded hosting startup assembly "ContactInforamtion.Api"
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Loaded hosting startup assembly "Microsoft.AspNetCore.Server.IISIntegration"
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGPV"" started.
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGQ0"" started.
+2019-09-13 01:31:43 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.DEBUG) Request starting HTTP/1.1 DEBUG http://localhost:41589/  0
+2019-09-13 01:31:43 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.GET) Request starting HTTP/1.1 GET http://localhost:41589/api/values  
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.) Wildcard detected, all requests with hosts will be allowed.
+2019-09-13 01:31:43 [Debug] (Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware.) Wildcard detected, all requests with hosts will be allowed.
+2019-09-13 01:31:44 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGQ0"" completed keep alive response.
+2019-09-13 01:31:44 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Request finished in 129.9012ms 200 
+2019-09-13 01:31:44 [Debug] (Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.) The request path "" does not match the path filter
+2019-09-13 01:31:44 [Debug] (Microsoft.AspNetCore.Routing.Matching.DfaMatcher.) No candidates found for the request path '"/api/values"'
+2019-09-13 01:31:44 [Debug] (Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.) Request did not match any endpoints
+2019-09-13 01:31:44 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGPV"" completed keep alive response.
+2019-09-13 01:31:44 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Request finished in 263.1202ms 404 
+2019-09-13 01:31:45 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.GET) Request starting HTTP/1.1 GET http://localhost:41589/swagger/index.html  
+2019-09-13 01:31:45 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGQ0"" completed keep alive response.
+2019-09-13 01:31:45 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Request finished in 217.9471ms 200 text/html
+2019-09-13 01:31:45 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.GET) Request starting HTTP/1.1 GET http://localhost:41589/swagger/v1/swagger.json  
+2019-09-13 01:31:46 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGPV"" completed keep alive response.
+2019-09-13 01:31:46 [Information] (Microsoft.AspNetCore.Hosting.Internal.WebHost.) Request finished in 241.7762ms 200 application/json;charset=utf-8
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.) Connection id ""0HLPNNG4CKGPV"" received FIN.
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.) Connection id ""0HLPNNG4CKGQ0"" received FIN.
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.) Connection id ""0HLPNNG4CKGQ0"" sending FIN because: ""The client closed the connection.""
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.) Connection id ""0HLPNNG4CKGPV"" sending FIN because: ""The client closed the connection.""
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGQ0"" disconnecting.
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGPV"" disconnecting.
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGQ0"" stopped.
+2019-09-13 01:33:33 [Debug] (Microsoft.AspNetCore.Server.Kestrel.) Connection id ""0HLPNNG4CKGPV"" stopped.
